@@ -6,4 +6,5 @@ I'm a beginner frontend developer. Study at State University of Management in th
 
 
 
-### :fire: My Stats :[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dimasikkkk&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dimasikkkk&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
