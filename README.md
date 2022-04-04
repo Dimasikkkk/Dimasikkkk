@@ -7,11 +7,10 @@ I'm Dmitry, a 18 years old beginner web developer from Moscow. Study at State Un
 
 
 
-Stats :
+### Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dimasikkkk&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-
-## Skills
+### Skills
 - 👨‍💻 JavaScript, Python
 - ⚙️ React, React Native
 - 👁️ SASS, CSS, Bootstrap, Tailwind
