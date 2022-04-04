@@ -2,7 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Dimasikkkk/Dimasikkkk/main/img/main.png" alt="banner about me">
 
-I'm a beginner frontend developer. Study at State University of Management in the direction of business-informatics. Interested computer science, microelectronics, photography
+
+I'm Dmitry, a 18 years old beginner web developer from Moscow. Study at State University of Management in the direction of business-informatics. Interested computer science, microelectronics, photography
 
 
 
