@@ -17,6 +17,6 @@ I'm a beginner frontend developer. Study at State University of Management in th
 - 💽 MySQL, SQL, Mongo
 
 ## Contact
-- [📧](adv1901@gmail.com)
+- [Gmail](adv1901@gmail.com)
 - [VK](https://vk.com/dimasikpec) on VK
 - [Dimasikk#3521](./) on Discord
